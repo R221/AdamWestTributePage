@@ -1,6 +1,7 @@
 
-.header {
-  text-align: center;
-  font-size: 3em;
-  font-family: 'Helvetica';
+.container {
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: auto;
+  margin-left: auto;
 }
